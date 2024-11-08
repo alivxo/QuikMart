@@ -1,5 +1,3 @@
-const products = require('node-api/data/products.json');
-
 // Import the Express library, which is used to create the API server
 const express = require('express');
 
@@ -17,7 +15,6 @@ const db = mysql.createConnection({
     host: 'localhost',      // The hostname of the database server (usually 'localhost' for local development)
     user: 'root',  // The username to connect to the database
     password: 'YUm15510n', // The password to connect to the database
-    database: 'SushQuikMart' // The name of the database to connect to
 });
 
 // Connect to the database and check for any errors
