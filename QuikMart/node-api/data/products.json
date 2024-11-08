@@ -1,0 +1,14 @@
+[
+  {
+    "ItemNumber": "S001",
+    "ItemName": "California Roll",
+    "Quantity": 1,
+    "price": 8.99
+  },
+  {
+    "ItemNumber": "S002",
+    "ItemName": "Spicy Tuna Roll",
+    "Quantity": 1,
+    "price": 9.99
+  }
+]
